@@ -1,0 +1,11 @@
+{ "name" : "aran"
+, "description" : "Command line utility to infer "
+, "version" : "0.0.0"
+, "author" : {"name":"Laurent Christophe", "email":"lachrist@vub.ac.be"}
+, "repository": "lachrist/forgiving-split"
+, "homepage": "http://github.com/lachrist/forgiving-splits"
+, "license" : "MIT"
+, "bin": "bin.js"
+, "dependencies": {"minimist":"*"}
+, "keywords" : ["Chronometer", "Splits", "Laps", "Forgiving", "Deviation", "Mean"]
+}
